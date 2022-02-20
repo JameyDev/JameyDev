@@ -26,9 +26,9 @@
 
 DM me:
 
-📫 Discord: jybryce4#7452
+📫 Discord: Cat of Cats#7452
 
-📫 Twitter: @jybryce04
+📫 Twitter: @TheCatOfCats
 
 <!--
 **jybryce4/jybryce4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
