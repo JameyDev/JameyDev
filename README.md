@@ -16,7 +16,6 @@
 - My Portfolio Website
 - Bloggo (Twitter clone)
 - Medium Articles
-- BAS Software Development at ACC
 
 ⚡ Fun fact: Loves learning new things
 
